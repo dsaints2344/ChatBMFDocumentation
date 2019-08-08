@@ -1,0 +1,8 @@
+
+#Server
+<connected> ::= 1
+<not_connected> ::= 0
+
+<connection_response> ::= <connected> | <not_connected>
+
+
